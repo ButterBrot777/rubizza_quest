@@ -1,0 +1,13 @@
+CV:
+  first_name: Pavel
+  last_name: Karenda
+  education:
+    university: Belarusian National Technical University
+    faculty: Civil Engineering Faculty
+    specialities: Master of Engineering
+    terms: 2007- 2012
+  languages: 
+    - english
+    - russian
+    - german
+    - polish
