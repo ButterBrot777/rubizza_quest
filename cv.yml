@@ -1,13 +1,11 @@
-CV:
-  first_name: Pavel
-  last_name: Karenda
-  education:
-    university: Belarusian National Technical University
-    faculty: Civil Engineering Faculty
-    specialities: Master of Engineering
-    terms: 2007- 2012
-  languages: 
-    - english
-    - russian
-    - german
-    - polish
+goal: I want to become a programmer, because I like working with computer and computer programms.
+programming_languages: fortran 90, ruby
+have_a_job: no job
+laptop: macOS Mojave
+english: pre-intermediate
+education:
+  graduation_year: 2007-2012
+  name_of_institution: Belarusian National Technical University
+  speciality: Master of Engineering
+phone_number: 375255082881
+age: 30
